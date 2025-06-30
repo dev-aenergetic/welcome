@@ -2,9 +2,7 @@
 
 Repositorio de desarrollo web para [AEnergetic](https://www.aenergetic.es/), una empresa dedicada a la asesoría energética desde 2012.
 
-## Desarrollador Web
 
-Desarrollo realizado en **Python Django**, siguiendo las mejores prácticas y con un enfoque en diseño minimalista.
 
 ## Sobre AEnergetic
 
@@ -20,14 +18,13 @@ Nuestra intención es dar la mejor atención, asesoría energética y ahorro eco
 - **Asesoramiento personalizado:**  
   Nuestro objetivo es crear una relación profesional contigo a largo plazo, para que todo lo relacionado con la energía lo dejes en nuestras manos.
 
+## Desarrollo Web
+Desarrollo realizado en **Python Django**, siguiendo las mejores prácticas y con un enfoque en diseño minimalista.
+
 ## Tecnologías
 
 - Python
 - Django
-
-## Tema
-
-El proyecto utiliza un **tema minimalista**, priorizando la claridad, simplicidad y experiencia de usuario.
 
 ## Sitio web
 
