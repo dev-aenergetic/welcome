@@ -1,3 +1,5 @@
+![Logo del proyecto](assets/logo.png)
+
 # AEnergetic - Asesoría Energética
 
 Repositorio de desarrollo web para [AEnergetic](https://www.aenergetic.es/), una empresa dedicada a la asesoría energética desde 2012.
